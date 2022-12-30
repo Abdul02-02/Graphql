@@ -5,7 +5,7 @@ import express from "express";
 export const users = [
     {id: 1, name: 'Mohamad', email: 'mohamad@gmail.com'},
     {id: 2, name: 'Hadi', email: 'hadi@gmail.com'},
-    {id: 1, name: 'Abdul', email: 'abdul@gmail.com'},
+    {id: 3, name: 'Abdul', email: 'abdul@gmail.com'},
 ];
 
 
